@@ -3,9 +3,10 @@ Assignment 10 for my STAT 442 class.
 
 For this assignment we updated our Assignment 9 Shiny app.
 
-Changes in update:  1) Added a tab for us map showing fatalities (filter independent of original tab)
-                    2) Changed background and plot colors
-                    3) Added notes at bottom of app with creator names and sources.
+Changes in update:  
+1) Added a tab for us map showing fatalities (filter independent of original tab)
+2) Changed background and plot colors
+3) Added notes at bottom of app with creator names and sources.
 
 This app uses data pulled from https://www.nhtsa.gov/research-data/fatality-analysis-reporting-system-fars
 and displays it in a way that is more usable to the average consumer. 
